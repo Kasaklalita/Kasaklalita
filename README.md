@@ -1,4 +1,5 @@
-### Hi there 👋
+![Kasaklalita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kasaklalita&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kasaklalita&layout=compact&theme=merko)](https://github.com/Kasaklalita/github-readme-stats)
 
 <!--
 **Kasaklalita/Kasaklalita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
