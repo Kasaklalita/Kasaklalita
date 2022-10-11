@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Veniamin Polienko, a **Front End Web Developer** mostly specializing in **Vue Applications**.
+🎓 I am Veniamin Polienko, a **Front End Web Developer** mostly specializing in **Vue Applications**. I am currently getting higher education in MAI - Moscow Aviation Institute (Computer Science).
 
 🌱 Current tech stack:
 - Python3, JavaScript, TypeScript
