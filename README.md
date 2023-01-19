@@ -10,12 +10,13 @@
 - Django, Vue, React, HTML, CSS, Tailwind, Bulma
 - Linux, Git
 
-🔭 I’m currently learning Android development via Kotlin
+🔭 I’m currently learning FastAPI and SQLAlchemy
 
 📫 How to reach me:
 - Telegram: https://t.me/Kasaklalita
 - email: kasaklalita@mail.ru
 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
